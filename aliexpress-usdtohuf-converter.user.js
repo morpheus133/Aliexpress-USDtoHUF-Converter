@@ -6,6 +6,8 @@
 // @require      https://code.jquery.com/jquery-3.1.1.slim.min.js
 // @require      https://cdnjs.cloudflare.com/ajax/libs/babel-polyfill/6.20.0/polyfill.min.js
 // @namespace    https://github.com/morpheus133/Aliexpress-USDtoHUF-Converter/
+// @downloadURL  https://github.com/morpheus133/Aliexpress-USDtoHUF-Converter/raw/master/aliexpress-usdtohuf-converter.user.js
+// @@updateURL   https://github.com/morpheus133/Aliexpress-USDtoHUF-Converter/raw/master/aliexpress-usdtohuf-converter.user.js
 // @grant        none
 // @author       Morpheus133 <morpheus1333@gmail.com>
 // ==/UserScript==
